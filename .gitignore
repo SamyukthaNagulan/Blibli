@@ -3,3 +3,5 @@ BlibliTrainBooking.iml
 ExecutionReport.html
 testng.xml
 .DS_Store
+target
+readme.txt
