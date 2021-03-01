@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/satadip/Documents/E2E/nobrokerapp/src/test"><classes><class name="steps.TrainBookingSteps"><methods><include name="searchInBuyTab"/><include name="selectProperty"/><include name="selectWrongInfoInPropertyDetail"/><include name="reportSection"/></methods></class></classes></test></suite>

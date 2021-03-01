@@ -1,5 +1,5 @@
-*.idea
-*BlibliTrainBooking.iml
-*ExecutionReport.html
-*testng.xml
-*.DS_Store
+.idea
+BlibliTrainBooking.iml
+ExecutionReport.html
+testng.xml
+.DS_Store
